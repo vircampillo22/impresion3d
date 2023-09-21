@@ -1,0 +1,16 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+main{
+    flex-grow: 1;
+}
+.listafooter{
+    list-style: none;
+    padding: 0px;
+}
+.carouselProducto{
+    height: 400px;
+    object-fit: cover;
+}
